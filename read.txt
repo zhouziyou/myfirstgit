@@ -1,3 +1,0 @@
-new text file haha
-git is free software
-add public
